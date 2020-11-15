@@ -1,0 +1,47 @@
+body{
+background-image: url(images/vibepeople.jpeg);
+background-position: inherit;
+background-repeat: repeat-x;
+background-size: cover;
+margin: -15px;}
+ul{border-radius: 5px;
+list-style-type: none;
+margin: 0,0,10;
+padding:0px;
+background-color:cyan;
+overflow: hidden;}
+li{color: rgb(160, 221, 17);
+float: left;
+display: block;
+text-align: center;
+padding: 4px;
+margin-right: -20px;
+margin-left: -4px;
+padding-left: 70px;}
+li#facebook{float:right;
+padding-right:45px;}
+li#whatsapp{float:right;
+padding-right: 0px;}
+li.moveright{float:right;}
+li a{color: rgb(160, 221, 17);
+text-decoration: none;}
+li#vibepeople-logo{font-size: xx-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+li#navbar-statement{font-size: xx-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+p{
+color: black;
+display: block;
+text-align: center;
+float: initial;
+font-size: xx-large;
+font-family: Forte, 'Times New Roman', Times, serif;
+padding: 50px;
+position: absolute;
+left: 30%;
+top: 50%;
+}
+img.bridge{border-radius: 5px;
+padding: 15px;
+height: 500px;
+width: 500px;}
